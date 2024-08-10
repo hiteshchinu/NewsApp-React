@@ -2,7 +2,7 @@
 
 A React-based news application that provides users with the latest headlines from various categories. This project demonstrates React fundamentals, including API integration, infinite scrolling, and responsive design.
 
-![News App]()
+![My News App](image.png)
 
 ## Features
 
