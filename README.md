@@ -2,14 +2,22 @@
 
 A React-based news application that provides users with the latest headlines from various categories. This project demonstrates React fundamentals, including API integration, infinite scrolling, and responsive design.
 
-![My News App](image.png)
-
 ## Features
 
 - **Infinite Scrolling**: Automatically load more news articles as the user scrolls down.
 - **Category Navigation**: View news in different categories such as Business, Entertainment, Health, Science, Sports, and Technology.
 - **Responsive Design**: Adapted for both mobile and desktop views.
 - **Loading Spinner**: Displays a spinner while fetching news articles.
+
+
+## Screenshots
+
+### Desktop View
+<img src="https://github.com/user-attachments/assets/a8f8bfe3-6c1f-4e19-a182-926514641b5f" alt="Home Page" width="500" height="auto" />
+
+### Mobile View
+<img src="https://github.com/user-attachments/assets/e30e6b58-53a9-4280-8881-994edcb75e48" alt="News Article" width="200" height="auto" />
+
 
 ## Installation
 
